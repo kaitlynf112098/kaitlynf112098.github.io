@@ -99,76 +99,152 @@ transform: rotate(90deg);
 	transform: rotate(180deg);
 }
 .box11 {
-	top:40px;
-	left: 840px;
+	top: 60px;
+	left: 1140px;
 	width: 0px;
 	height: 0px;
-	border-left: 300px solid transparent; 
-	border-right: 300px solid transparent;
-	border-bottom: 300px solid rgb(251, 57, 255);
-	transform: rotate(315deg);
+	border-left: 120px solid transparent; 
+	border-right: 120px solid transparent;
+	border-bottom: 460px solid rgb(0, 0, 0);
 }
 .box12 {
-	top:252px;
-	left: 1052px;
+	top: 60px;
+	left: 1020px;
 	width: 0px;
 	height: 0px;
-	border-left: 300px solid transparent; 
-	border-right: 300px solid transparent;
-	border-bottom: 300px solid rgb(0, 0, 0);
-	transform: rotate(135deg);
+	border-left: 120px solid transparent; 
+	border-right: 120px solid transparent;
+	border-bottom: 460px solid rgb(251, 57, 255);
+	transform: rotate(180deg); 
 }
-.box13 {
-	top:300px;
-	left: 1336px;
+.box13{
+	top: 460px;
+	left: 1140px;
 	width: 0px;
 	height: 0px;
-	border-left: 60px solid transparent; 
-	border-right: 60px solid transparent;
-	border-bottom: 190px solid rgb(251, 57, 255);
-	transform: rotate(150deg);
+	border-left: 120px solid transparent; 
+	border-right: 120px solid transparent;
+	border-bottom: 60px solid rgb(251, 57, 255);
 }
-.box14 {
-	top:180px;
+.box14{
+	top: 370px;
+	left: 1280px;
+	width: 0px;
+	height: 0px;
+	border-left: 30px solid transparent; 
+	border-right: 30px solid transparent;
+	border-bottom: 160px solid rgb(251, 57, 255);
+	transform: rotate(132deg); 
+}
+.box15{
+	top: 220px;
 	left: 1000px;
 	width: 0px;
 	height: 0px;
-	border-left: 180px solid transparent; 
-	border-right: 180px solid transparent;
-	border-bottom: 180px solid rgb(0, 0, 0);
-	transform: rotate(315deg);
-}
-.box15 {
-	top:454px;
-	left: 1033px;
-	width: 0px;
-	height: 0px;
-	border-left: 213px solid transparent; 
-	border-right: 213px solid transparent;
-	border-bottom: 55px solid rgb(251, 57, 255);
-	transform: rotate(0deg);
+	border-left: 160px solid transparent; 
+	border-right: 160px solid transparent;
+	border-bottom: 140px solid rgb(0, 0, 0);
+	transform: rotate(290deg); 
 }
 .box16 {
-	top:195px;
-	left: 1400px;
+	top: 60px;
+	left: 1449px;
 	width: 0px;
 	height: 0px;
-	border-left: 210px solid transparent; 
-	border-right: 210px solid transparent;
-	border-bottom: 200px solid rgb(0, 0, 0);
-	transform: rotate(90deg); 
+	border-left: 120px solid transparent; 
+	border-right: 120px solid transparent;
+	border-bottom: 460px solid rgb(251, 57, 255);
 }
 .box17 {
-	top:195px;
-	left: 1400px;
+	top: 60px;
+	left: 1330px;
 	width: 0px;
 	height: 0px;
-	border-left: 110px solid transparent; 
-	border-right: 110px solid transparent;
-	border-bottom: 100px solid rgb(251, 57, 255);
-	transform: rotate(90deg); 
+	border-left: 120px solid transparent; 
+	border-right: 120px solid transparent;
+	border-bottom: 460px solid rgb(251, 57, 255);
+	transform: rotate(180deg); 
+}
+
+.box18{
+	top: 115px;
+	left: 1408px;
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent; 
+	border-right: 90px solid transparent;
+	border-bottom: 220px solid rgb(0, 0, 0);
+	transform: rotate(255.5deg); 
+} 
+.box19{
+	top: 285px;
+	left: 1452.5px;
+	width: 0px;
+	height: 0px;
+	border-left: 90px solid transparent; 
+	border-right: 90px solid transparent;
+	border-bottom: 220px solid rgb(0, 0, 0);
+	transform: rotate(255.5deg); 
+} 
+.box20 {
+	top: 60px;
+	left: 1760px;
+	width: 0px;
+	height: 0px;
+	border-left: 100px solid transparent; 
+	border-right: 100px solid transparent;
+	border-bottom: 460px solid rgb(0, 0, 0);
+}
+.box21 {
+	top: 60px;
+	left: 1860px;
+	width: 0px;
+	height: 0px;
+	border-left: 100px solid transparent; 
+	border-right: 100px solid transparent;
+	border-bottom: 460px solid rgb(251, 57, 255);
+	transform: rotate(180deg); 
+}
+.box22{
+	top: 300px;
+	left: 1830px;
+	width: 0px;
+	height: 0px;
+	border-left: 30px solid transparent; 
+	border-right: 30px solid transparent;
+	border-bottom: 130px solid rgb(251, 57, 255);
+	transform: rotate(103deg); 
+}
+
+.box23{
+	top: 300px;
+	left: 1830px;
+	width: 0px;
+	height: 0px;
+	border-left: 30px solid transparent; 
+	border-right: 30px solid transparent;
+	border-bottom: 130px solid rgb(251, 57, 255);
+	transform: rotate(103deg); 
+}
+.box24{
+	top: 140px;
+	left: 1933px;
+	width: 0px;
+	height: 0px;
+	border-left: 30px solid transparent; 
+	border-right: 30px solid transparent;
+	border-bottom: 130px solid rgb(0, 0, 0);
+	transform: rotate(282deg); 
 }
 
 
 
+
+.description {
+	top: 600px;
+	left: 40px;
+	font-family: "courier";
+	font-size: 20px;
+	line-height: 48px;
+}
 
