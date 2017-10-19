@@ -3,46 +3,25 @@ div {
 	position: absolute;
 }
 .box1 {
-	top:60px;
-	left: 65px;
-	width: 0px;
-	height: 0px;
-	border-left: 160px solid transparent; 
-	border-right: 160px solid transparent;
-	border-bottom: 200px solid rgb(251, 57, 255);
-	transform: rotate(90deg);
-}
-.box2 {
-	top:85px;
-	left: 105px;
+	top: 60px;
+	left: 60px;
 	width: 0px;
 	height: 0px;
 	border-left: 100px solid transparent; 
 	border-right: 100px solid transparent;
-	border-bottom: 160px solid rgb(0, 0, 0);
-transform: rotate(90deg); 
+	border-bottom: 460px solid rgb(0, 0, 0);
 }
-
+.box2 {
+	top: 60px;
+	left: 160px;
+	width: 0px;
+	height: 0px;
+	border-left: 100px solid transparent; 
+	border-right: 100px solid transparent;
+	border-bottom: 460px solid rgb(251, 57, 255);
+	transform: rotate(180deg); 
+}
 .box3 {
-	top:310px;
-	left: 125px;
-	width: 0px;
-	height: 0px;
-	border-left: 0px solid transparent; 
-	border-right: 170px solid transparent;
-	border-bottom: 210px solid rgb(251, 57, 255);
-	
-}
-.box4 {
-	top:400px;
-	left: 150px;
-	width: 0px;
-	height: 0px;
-	border-left: 0px solid transparent; 
-	border-right: 80px solid transparent;
-	border-bottom: 120px solid rgb(0, 0, 0);
-}
-.box5 {
 	top: 60px;
 	left: 380px;
 	width: 0px;
@@ -50,6 +29,25 @@ transform: rotate(90deg);
 	border-left: 130px solid transparent; 
 	border-right: 130px solid transparent;
 	border-bottom: 460px solid rgb(251, 57, 255);
+}
+.box4 {
+	top: 400px;
+	left: 130px;
+	width: 0px;
+	height: 0px;
+	border-left: 30px solid transparent; 
+	border-right: 30px solid transparent;
+	border-bottom: 120px solid rgb(251, 57, 255);
+}
+.box5 {
+	top: 150px;
+	left: 130px;
+	width: 0px;
+	height: 0px;
+	border-left: 130px solid transparent; 
+	border-right: 130px solid transparent;
+	border-bottom: 100px solid rgb(0, 0, 0);
+	transform: rotate(80deg);
 }
 .box6 {
 	top: 260px;
@@ -247,4 +245,3 @@ transform: rotate(90deg);
 	font-size: 20px;
 	line-height: 48px;
 }
-
