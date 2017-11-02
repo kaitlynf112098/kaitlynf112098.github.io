@@ -1,0 +1,80 @@
+.leftblock {
+	width: 2000px;
+	font-size: 30px;
+	line-height: 28px;
+	color: rgb(255, 229, 0);
+	text-align: left;
+	/*text-decoration: underline;*/ 
+	font-weight: 400;
+	/*letter-spacing: 2px;*/
+	/*text-transform:lowercase;*/
+	/*font-family: helvetica;*/
+	font-family:'space Mono', monospace;
+	font-weight: bold;
+	padding-left: 40px;
+	padding-top: 20px;
+	position: absolute;
+
+}
+
+ .text1 {
+ 	width: 300px; 
+ 	font-size:20;
+ 	color: rgb(255, 45, 200);
+ 	padding-left: 120;
+ 	position: absolute;
+ 	
+ }
+ .rightblock {
+ 	position: absolute;
+width: 800px;
+	font-size: 30px;
+	line-height: 28px;
+	color: rgb(111, 255, 17);
+	text-align: left;
+	/*text-decoration: underline;*/ 
+	font-weight: 400;
+	/*letter-spacing: 2px;*/
+	/*text-transform:lowercase;*/
+	/*font-family: Georgia, serif;*/
+	font-family:'space Mono', monospace;
+	font-weight: bold;
+	padding-left: 5px;
+	padding-top: 0px;
+	background-color: black;
+	letter-spacing: 3px;
+ }
+
+ .text2 {
+ 	width: 300px;
+	font-size: 15px;
+	line-height: 28px;
+	color: rgb(232, 70, 0);
+	text-align: left;
+	/*text-decoration: underline;*/ 
+	font-weight: 400;
+	/*letter-spacing: 2px;*/
+	/*text-transform:lowercase;*/
+	/*font-family: Georgia, serif;*/
+	font-family:'space Mono', monospace;
+	font-weight: bold;
+	padding-left: 215px;
+	padding-top: 0px;
+	background-color: black;
+	position: absolute;
+ }
+.pic1 {
+	padding-left: 0px;
+	padding-top: 20px;
+}
+
+.links {
+	width: 100px;
+	padding-left: 300px;
+}
+
+.dog12{
+	width: 100px;
+}
+
+body {background-color: black;}

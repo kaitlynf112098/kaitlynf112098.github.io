@@ -1,0 +1,11 @@
+div {
+	color: red;
+	font-size: 42px;
+	opacity: 0;
+	transition: color1s linear;
+}
+
+/*pseudo-selector */ 
+div: hover{
+	opacity: 1;
+}
