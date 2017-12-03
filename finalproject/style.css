@@ -1,0 +1,200 @@
+div {
+	position: absolute;
+}
+.line {
+	top: 350px;
+	left: 0px;
+	background-color: red;
+	width: 100vw;
+	height: 2px;
+
+}
+.line {
+	top: 350px;
+	left: 0px;
+	background-color: red;
+	width: 100vw;
+	height: 3px;
+
+}
+.line1 {
+	top: 300px;
+	left: 100px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+
+.line3g {
+	top: 350px;
+	left: 200px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+
+.line3gs {
+	top: 300px;
+	left: 300px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+.line4 {
+	top: 350px;
+	left: 400px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+.line4s {
+	top: 300px;
+	left: 500px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+.line5 {
+	top: 350px;
+	left: 600px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+.line5c {
+	top: 300px;
+	left: 700px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+.line5s {
+	top: 350px;
+	left: 800px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+.line6 {
+	top: 300px;
+	left: 900px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+.line7 {
+	top: 350px;
+	left: 1000px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+.line8 {
+	top: 300px;
+	left: 1100px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+.linex {
+	top: 350px;
+	left: 1200px;
+	background-color: red;
+	width: 3px;
+	height: 50px;
+}
+.apple1 {
+	top-padding: 100px;
+	width: 90px;
+	left: 100px;
+}
+.title {
+	color: red;
+	font-size: 100px;
+	left: 100;
+}
+.apple2 {
+	width: 300px;
+	left: 200px;
+}
+.iphone1 {
+	top: 275px;
+	color: red;
+	left: 85px;
+}
+.Iphone3g {
+	top: 405px;
+	color: red;
+	left: 175px;
+}
+.Iphone3gs {
+	top: 275px;
+	color: red;
+	left: 270px;
+}
+.Iphone4 {
+	top: 405px;
+	color: red;
+	left: 385px;
+}
+.Iphone4s {
+	top: 275px;
+	color: red;
+	left: 475px;
+}
+.Iphone5 {
+	top: 405px;
+	color: red;
+	left: 570px;
+}
+.Iphone5c {
+	top: 275px;
+	color: red;
+	left: 670px;
+}
+.Iphone5s {
+	top: 405px;
+	color: red;
+	left: 785px;
+}
+.Iphone6 {
+	top: 275px;
+	color: red;
+	left: 880px;
+}
+.Iphone7 {
+	top: 405px;
+	color: red;
+	left: 970px;
+}.Iphone8 {
+	top: 275px;
+	color: red;
+	left: 1080px;
+}
+.pic1 {
+width: 10;
+height: 10;
+top: 100px;
+}
+.Iphonex {
+	top: 405px;
+	color: red;
+	left: 1185px;
+}
+.text1 {
+	width: 2000px;
+	font-size: 30px;
+	line-height: 28px;
+	color: rgb(255, 229, 0);
+	text-align: left;
+	/*text-decoration: underline;*/ 
+	font-weight: 400;
+	/*letter-spacing: 2px;*/
+	/*text-transform:lowercase;*/
+	/*font-family: Gloria Hallelujah;*/
+	font-family:''; 
+	font-weight: bold;
+	padding-left: 40px;
+	padding-top: 20px;
+	position: absolute;
+}
