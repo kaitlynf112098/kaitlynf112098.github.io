@@ -215,3 +215,25 @@ top: 100px;
 	padding-top: 20px;
 	position: absolute;
 }
+.pic1 {
+	width: 20px;
+}
+.pic2{
+	width: 950px;
+	top: 450px;
+	left: 10px;
+	position: absolute;
+}
+.pic3{
+	width: 900px;
+}
+.pic4{
+	width: 900px;
+}
+.pic5{
+	width: 500px;
+}
+.apples{
+	width: 90px;
+	top: 100px;
+}
