@@ -181,18 +181,35 @@ top: 100px;
 	color: red;
 	left: 1185px;
 }
-.text1 {
-	width: 2000px;
-	font-size: 30px;
-	line-height: 28px;
-	color: rgb(255, 229, 0);
+.top {
+	width: 300px;
+	font-size: 80px;
+	line-height: 88px;
+	color: rgb(255, 0, 0);
 	text-align: left;
 	/*text-decoration: underline;*/ 
 	font-weight: 400;
 	/*letter-spacing: 2px;*/
 	/*text-transform:lowercase;*/
-	/*font-family: Gloria Hallelujah;*/
-	font-family:''; 
+	/*font-family: Helvetica;*/
+	font-family:Helvetica; 
+	font-weight: bold;
+	padding-left: 40px;
+	padding-top: 20px;
+	position: absolute;
+}
+.text1 {
+	width: 300px;
+	font-size: 20px;
+	line-height: 28px;
+	color: rgb(255, 0, 0);
+	text-align: left;
+	/*text-decoration: underline;*/ 
+	font-weight: 400;
+	/*letter-spacing: 2px;*/
+	/*text-transform:lowercase;*/
+	/*font-family: Helvetica ;*/
+	font-family:Helvetica; 
 	font-weight: bold;
 	padding-left: 40px;
 	padding-top: 20px;
